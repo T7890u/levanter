@@ -1,10 +1,10 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_182f82321fd03340378f4a6f7404183abc",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
-    "ALWAYS_ONLINE": "false",
+    "STICKER_PACKNAME": "TONIXE",
+    "ALWAYS_ONLINE": "true",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
     "FORCE_LOGOUT": "false",
